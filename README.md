@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">-💼 Habilidades</h1>
+<h1 align="left">💼 Habilidades</h1>
 
 ###
 
