@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Sou o Gustavo Faria, desenvolvedor web com uma base sólida em HTML, CSS avançado e<br>Python. Estou continuamente aprimorando minhas habilidades em JavaScript e explorando TypeScript junto com Node.js para expandir meu conhecimento e melhorar minhas habilidades de desenvolvimento front-end e back-end.</p>
+<p align="left">Sou Gustavo Faria, desenvolvedor web full stack com foco em soluções modernas e funcionais. Tenho uma base sólida em HTML e CSS avançado, além de experiência prática com JavaScript, Node.js, React.js, MySQL e Tailwind CSS. Estou constantemente aprimorando minhas habilidades com TypeScript e tecnologias de back-end para oferecer sistemas completos e escaláveis.</p>
 
 ###
 
